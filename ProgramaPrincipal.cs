@@ -4,12 +4,15 @@ class principal{
 
     static void Main(){
 
-        Auto clio = new Auto();
 
         Avion superJet = new Avion();
 
+        Auto ferrari = new Auto();
+
+        ferrari.mover();
 
         
+    
 
     }
 }

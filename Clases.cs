@@ -18,6 +18,10 @@ namespace miLibreria{
 
             Console.WriteLine("Deteniendose...");
         }
+
+        public void mover(){
+            Console.WriteLine("Moviendose...");
+        }
     }
 
     class Avion : Transporte{

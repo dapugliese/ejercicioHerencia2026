@@ -1,0 +1,15 @@
+/home/et12alumno/CHACHE/ejercicioHerencia2026/bin/Debug/net8.0/ejercicioHerencia
+/home/et12alumno/CHACHE/ejercicioHerencia2026/bin/Debug/net8.0/ejercicioHerencia.deps.json
+/home/et12alumno/CHACHE/ejercicioHerencia2026/bin/Debug/net8.0/ejercicioHerencia.runtimeconfig.json
+/home/et12alumno/CHACHE/ejercicioHerencia2026/bin/Debug/net8.0/ejercicioHerencia.dll
+/home/et12alumno/CHACHE/ejercicioHerencia2026/bin/Debug/net8.0/ejercicioHerencia.pdb
+/home/et12alumno/CHACHE/ejercicioHerencia2026/obj/Debug/net8.0/ejercicioHerencia.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/CHACHE/ejercicioHerencia2026/obj/Debug/net8.0/ejercicioHerencia.AssemblyInfoInputs.cache
+/home/et12alumno/CHACHE/ejercicioHerencia2026/obj/Debug/net8.0/ejercicioHerencia.AssemblyInfo.cs
+/home/et12alumno/CHACHE/ejercicioHerencia2026/obj/Debug/net8.0/ejercicioHerencia.csproj.CoreCompileInputs.cache
+/home/et12alumno/CHACHE/ejercicioHerencia2026/obj/Debug/net8.0/ejercicioHerencia.sourcelink.json
+/home/et12alumno/CHACHE/ejercicioHerencia2026/obj/Debug/net8.0/ejercicioHerencia.dll
+/home/et12alumno/CHACHE/ejercicioHerencia2026/obj/Debug/net8.0/refint/ejercicioHerencia.dll
+/home/et12alumno/CHACHE/ejercicioHerencia2026/obj/Debug/net8.0/ejercicioHerencia.pdb
+/home/et12alumno/CHACHE/ejercicioHerencia2026/obj/Debug/net8.0/ejercicioHerencia.genruntimeconfig.cache
+/home/et12alumno/CHACHE/ejercicioHerencia2026/obj/Debug/net8.0/ref/ejercicioHerencia.dll
