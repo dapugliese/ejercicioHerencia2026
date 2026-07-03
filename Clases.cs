@@ -19,7 +19,7 @@ namespace miLibreria{
             Console.WriteLine("Deteniendose...");
         }
 
-        public void mover(){
+        public virtual void mover(){
             Console.WriteLine("Moviendose...");
         }
     }
@@ -40,6 +40,11 @@ namespace miLibreria{
             Console.WriteLine("Aterrizando...");
         }
 
+        public override void mover()
+        {
+            Console.WriteLine("Moviendose el avion");
+        }
+
     }
 
 
@@ -50,6 +55,10 @@ namespace miLibreria{
 
         public void cambiarAceite(){
             Console.WriteLine("Cambiando aceite...");
+        }
+
+         public override void  mover(){
+            Console.WriteLine("Moviendo el auto");
         }
 
     }

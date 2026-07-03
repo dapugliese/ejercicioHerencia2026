@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/et12alumno/CHACHE/ejercicioHerencia2026/ejercicioHerencia.csproj": {}
+    "/home/et12alumno/ejercicioHerencia2026/ejercicioHerencia.csproj": {}
   },
   "projects": {
-    "/home/et12alumno/CHACHE/ejercicioHerencia2026/ejercicioHerencia.csproj": {
+    "/home/et12alumno/ejercicioHerencia2026/ejercicioHerencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/et12alumno/CHACHE/ejercicioHerencia2026/ejercicioHerencia.csproj",
+        "projectUniqueName": "/home/et12alumno/ejercicioHerencia2026/ejercicioHerencia.csproj",
         "projectName": "ejercicioHerencia",
-        "projectPath": "/home/et12alumno/CHACHE/ejercicioHerencia2026/ejercicioHerencia.csproj",
+        "projectPath": "/home/et12alumno/ejercicioHerencia2026/ejercicioHerencia.csproj",
         "packagesPath": "/home/et12alumno/.nuget/packages/",
-        "outputPath": "/home/et12alumno/CHACHE/ejercicioHerencia2026/obj/",
+        "outputPath": "/home/et12alumno/ejercicioHerencia2026/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/et12alumno/.nuget/NuGet/NuGet.Config"

@@ -11,6 +11,8 @@ class principal{
 
         ferrari.mover();
 
+        superJet.mover();
+
         
     
 
